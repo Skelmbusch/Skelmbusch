@@ -8,7 +8,7 @@
 
 ### Hi, I'm James
 
-By day I work in operations. The rest of the time, I build.
+By day I work in operations and run a business. The rest of the time, I build.
 
 I'm not a programmer, and I don't need to be anymore. I build with AI: at work to make things run smarter, and on my own projects outside of it.
 
