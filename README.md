@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm James
 
-<!--
-**Skelmbusch/Skelmbusch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Operations Specialist who builds. I make websites and custom business tools for South African companies, from Pretoria.
 
-Here are some ideas to get you started:
+Background in digital marketing (including BMW in the US) and photography, video and 3D. These days I combine that with Next.js, Tailwind and AI to turn business problems into working software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I'm working on**
+- Websites for local businesses: trades, logistics, mining equipment, retail
+- Custom internal tools to replace clunky off-the-shelf systems
+- *Sunday Touchies*, a South African touch rugby game built in Godot
+
+**Stack**
+Next.js · React · Tailwind CSS · Vercel · Godot · Claude / AI automation
+
+**Get in touch**
+📧 james.h.schlebusch@gmail.com · [LinkedIn](https://www.linkedin.com/in/james-harris-schlebusch-3237baaa/)
