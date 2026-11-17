@@ -12,7 +12,7 @@ By day I work in operations. The rest of the time, I build.
 
 I'm not a programmer, and I don't need to be anymore. I build with AI: at work to make things run smarter, and on my own projects outside of it.
 
-Background in Digital Marketing, Retail with BMW in EU/USA, photography, video and 3D.
+Background in Business Management, Digital Marketing, Retail with BMW in EU/USA, photography, video and 3D.
 
 ### At work
 
