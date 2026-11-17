@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&duration=4000&pause=2500&color=8FB8DE&center=true&vCenter=true&width=600&lines=Operations+by+day.+Builder+by+night.;I+don%27t+debug.+I+negotiate.;I+do+this+for+fun.;Most+used+keyword%3A+%22Make+It+Better%22.;Learning+since+2026." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&duration=4000&pause=2500&color=8FB8DE&center=true&vCenter=true&width=600&lines=Operations+by+day.+Builder+by+night.;I+don%27t+debug.+I+negotiate.;I+do+this+for+fun.;Most+used+keywords%3A+%22Make+It+Better%22.;Learning+since+2026." />
 </p>
 
-### 👋 Hi, I'm James
+### ✦ Hi, I'm James
 
 By day I work in operations. The rest of the time, I build.
 
@@ -14,17 +14,17 @@ I'm not a programmer, and I don't need to be anymore. I build with AI: at work t
 
 Background in Digital Marketing, Retail with BMW in EU/USA, photography, video and 3D.
 
-### 🏢 At work
+### ✦ At work
 
 - Digitising operations: internal tools, dashboards and automation that cut the admin
 
-### 🌙 On the side
+### ✦ On the side
 
 - Tools that make day-to-day operations run smoother
 - 🏉 *Sunday Touchies*, a touch rugby game built in Godot, just for fun
 - Experiments with whatever new AI tool just dropped
 
-### ⚙️ How I build
+### ✦ How I build
 
 AI does the lifting on code. I bring my vision, the design and the business sense.
 
@@ -37,7 +37,7 @@ AI does the lifting on code. I bring my vision, the design and the business sens
   <img src="https://img.shields.io/badge/Claude-0B1222?style=for-the-badge&logo=claude&logoColor=8FB8DE" />
 </p>
 
-### 📫 Find me
+### ✦ Find me
 
 <a href="https://www.linkedin.com/in/james-harris-schlebusch-3237baaa/"><img src="https://img.shields.io/badge/LinkedIn-0B1222?style=for-the-badge&logo=linkedin&logoColor=8FB8DE" /></a>
 
