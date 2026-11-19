@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&duration=4000&pause=2500&color=8FB8DE&center=true&vCenter=true&width=600&lines=Operations+by+day.+Builder+by+night.;I+don%27t+debug.+I+negotiate.;I+do+this+for+fun.;Most+used+keywords%3A+%22Make+It+Better%22.;Learning+since+2026." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&duration=4000&pause=2500&color=8FB8DE&center=true&vCenter=true&width=600&lines=I+do+this+for+fun.;Most+used+keywords%3A+%22Make+It+Better%22.;Learning+since+2026." />
 </p>
 
 ### Hi, I'm James
