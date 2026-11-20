@@ -16,7 +16,7 @@ Background in Business Management, Digital Marketing, Retail with BMW in EU/USA,
 
 ### At work
 
-- Digitising operations: internal tools, dashboards and automation that cut the admin
+- Digitizing operations: internal tools, automation that cut the admin and leading a team of +25 people
 
 ### On the side
 
